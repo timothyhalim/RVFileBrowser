@@ -15,3 +15,7 @@ Install:
 - Restart RV
 - On RV Menu go to File Browser
 - Show File Browser
+
+Feature:
+- Open File
+- Drag and Drop File
