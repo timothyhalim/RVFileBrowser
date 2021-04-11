@@ -1,6 +1,6 @@
 # RVFileBrowser
 
-File Browser Plugin for RV<br>
+File Browser Plugin for Shotgun RV ex Tweak Software's<br>
 Build for testing Purpose<br>
 Tested on RV 7.1.0<br>
 
