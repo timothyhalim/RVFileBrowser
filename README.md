@@ -1,3 +1,6 @@
+
+<img src="Preview.jpg" alt="Preview" width="570" height="544">
+
 # RVFileBrowser
 
 File Browser Plugin for Shotgun RV ex Tweak Software's<br>
