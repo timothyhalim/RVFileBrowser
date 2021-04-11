@@ -1,0 +1,21 @@
+package: FileBrowser
+author: Timothy Halim
+organization: http://timo.ink
+version: 1.0
+rv: 7.1.0
+requires: ''
+imageio: []
+movieio: []
+hidden: false
+system: false
+optional: false
+
+modes:
+  - file: fbrv.py
+    load: immediate
+files:
+  - file: FileBrowser.py
+    location: Python
+
+description: |
+  <p>File Browser</p>
